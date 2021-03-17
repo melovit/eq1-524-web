@@ -1,0 +1,46 @@
+.grid {
+  width: 100vw;
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 45% 55%;
+  grid-template-rows: 1fr;
+  grid-template-areas: "left right";
+}
+
+.left-side {
+  grid-area: left;
+  display: flex;
+  position: relative;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.right-side {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: rgb(245, 0, 73);
+}
+
+.logo {
+  width: 38px;
+}
+
+.page-title {
+  font-size: x-large;
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+.img {
+  width: 60%;
+}
+
+.icon {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 10px;
+}

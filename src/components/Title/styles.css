@@ -1,0 +1,14 @@
+.title {
+  font-size: 32px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 24px;
+  color: black;
+  font-weight: 300;
+  padding: 0 20px;
+
+  text-align: center;
+}

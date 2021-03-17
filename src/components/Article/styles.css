@@ -1,0 +1,24 @@
+.article {
+  padding: 20px;
+}
+
+.title {
+  font-size: 18px;
+  color: black;
+  font-weight: 700;
+}
+
+.body {
+  font-size: 18px;
+  color: black;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.font {
+  font-size: 16px;
+  padding-top: 10px;
+  color: #e34251;
+  text-decoration: underline;
+  font-weight: 500;
+}
