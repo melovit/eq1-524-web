@@ -8,9 +8,22 @@
   font-weight: 700;
 }
 
+.title2 {
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+}
+
 .body {
   font-size: 18px;
   color: black;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.body2 {
+  font-size: 16px;
+  color: white;
   text-align: justify;
   font-weight: 500;
 }

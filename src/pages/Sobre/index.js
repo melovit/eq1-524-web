@@ -12,8 +12,15 @@ export default function Sobre() {
       <Subtitle>
         Este projeto foi desenvolvido com o intuito de ajudar e encorajar o
         máximo de pessoas possíveis a concientizarem-se e doarem sangue, esse é
-        um ato saudoso e que deve fazer parte do costume de todos nós. Doar
+        um ato saudoso e que deve fazer parte da rotina de todos nós. Doar
         sangue salva vidas!
+      </Subtitle>
+      <Subtitle>
+        Desenvolvido por:
+        Antônio Vitor, 
+        Karolinny Oliveira,
+        Maria Vitória e
+        Saulo Teixeira. 
       </Subtitle>
     </div>
   );

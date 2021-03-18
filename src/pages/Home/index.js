@@ -31,7 +31,7 @@ export default function Home() {
             <img className="icon" src={World} alt="" />
           </Showcase>
           <Link to="/mais">
-            <Button>Saiba mais!</Button>
+            <Button>MAIS INFORMAÇÕES</Button>
           </Link>
           <Link to="/sobre">
           </Link>

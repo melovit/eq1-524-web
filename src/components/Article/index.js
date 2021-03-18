@@ -12,8 +12,20 @@ export function ArticleTitle({ children, style }) {
   );
 }
 
+export function ArticleTitle2({ children, style }) {
+  return (
+    <h3 style={style} className="title2">
+      {children}
+    </h3>
+  );
+}
+
 export function ArticleBody({ children }) {
   return <p className="body">{children}</p>;
+}
+
+export function ArticleBody2({ children }) {
+  return <h5 className="body2">{children}</h5>;
 }
 
 export function ArticleFont({ children, href }) {
