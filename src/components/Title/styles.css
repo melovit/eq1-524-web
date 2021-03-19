@@ -12,3 +12,12 @@
 
   text-align: center;
 }
+
+.subtitle2 {
+  font-size: 21px;
+  color: black;
+  font-weight: 300;
+  padding: 0 20px;
+
+  text-align: center;
+}

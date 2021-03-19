@@ -74,7 +74,7 @@ const Mais = () => {
           </Link>
 
           <Article>
-            <ArticleTitle2>QUEM PODE DOAR?</ArticleTitle2>
+            <ArticleTitle2>RECOMENDAÇÕES</ArticleTitle2>
             <ArticleBody2>
             <li>Estar alimentado;</li> 
             <li>Evite alimentos gordurosos 3 horas da doação de sangue;</li>
@@ -82,7 +82,7 @@ const Mais = () => {
             <li>Pessoas com idade entre 60 e 69 anos só poderão doar se já o tiverem feito antes dos 60 anos;</li>
             <li>A frequência máxima é de 4 doações de sangue anuais para o homem e de 3 para as mulheres;</li>
             <li>O intervalo mínimo entre uma doação de sangue e outra é de 2 meses para os homens e de 3 meses para
-            as mulheres;</li>
+            as mulheres.</li>
             </ArticleBody2>
           </Article>
 

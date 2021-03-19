@@ -15,3 +15,11 @@ export function Subtitle({ children, style }) {
     </h2>
   );
 }
+
+export function Subtitle2({ children, style }) {
+  return (
+    <h3 style={style} className="subtitle2">
+      {children}
+    </h3>
+  );
+}
